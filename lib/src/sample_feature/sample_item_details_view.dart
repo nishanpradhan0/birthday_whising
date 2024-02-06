@@ -64,21 +64,16 @@ class _SampleItemDetailsViewState extends State<SampleItemDetailsView> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Item Details'),
+    return Stack(children: [
+      Center(
+        child: Image.asset('assets/images/hbd.png'),
       ),
-      body: Stack(children: [
-        Center(
-          child: Image.asset('assets/images/hbd.png'),
-        ),
-        Column(
-          children: [
-            confeTeei(),
-          ],
-        ),
-      ]),
-    );
+      Column(
+        children: [
+          confeTeei(),
+        ],
+      ),
+    ]);
   }
 
   ConfettiWidget confeTeei() {
