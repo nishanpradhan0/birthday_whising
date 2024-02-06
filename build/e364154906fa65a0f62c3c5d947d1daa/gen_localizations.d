@@ -1,0 +1,1 @@
+ C:\\Users\\nisha\\OneDrive\\Desktop\\hbd\\confetii\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\Users\\nisha\\OneDrive\\Desktop\\hbd\\confetii\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\Users\\nisha\\OneDrive\\Desktop\\hbd\\confetii\\l10n.yaml C:\\Users\\nisha\\OneDrive\\Desktop\\hbd\\confetii\\lib/src/localization\\app_en.arb
