@@ -101,6 +101,7 @@ class _SampleItemDetailsViewState extends State<SampleItemDetailsView> {
         Colors.purple,
         Colors.brown,
         Colors.green,
+        Colors.teal
       ],
       strokeWidth: 0.3,
       particleDrag: 0.05,
